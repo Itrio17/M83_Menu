@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #ffffff;
+}
+
+h1, h2, h4, p {
+    font-family: 'Poppins', sans-serif;
+}
+
+.title{
+    margin-left: 27%;
+}
+
+.comida {
+    margin-left: 7px;
+    margin-bottom: 20px;
+
+    .title {
+        background-color: red;
+        color: #ffffff;
+        width: 208px;
+        margin-left: 20%;
+        margin-bottom: 10px;
+
+        h2 {
+            padding: 2%;
+            text-align: center;
+        }
+    }
+
+    .item {
+        margin-bottom: 5px;
+    }
+}
