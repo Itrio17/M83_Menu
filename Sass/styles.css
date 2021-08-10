@@ -35,4 +35,12 @@ h1, h2, h4, p {
   margin-bottom: 5px;
 }
 
+.contacto {
+  text-align: center;
+}
+.contacto p a {
+  font-size: x-large;
+  font-weight: 700;
+}
+
 /*# sourceMappingURL=styles.css.map */
